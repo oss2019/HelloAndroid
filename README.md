@@ -3,7 +3,7 @@
 ![android_training](https://user-images.githubusercontent.com/47269634/54229797-0f0e0c80-452b-11e9-8d99-fc9439e2665a.jpg)    
 
 
-Hello Android! is a part of Android App Development (AAD) series to help students learn builing Android apps on Android Studio. Students will get comfortable with basic Java and XML concepts together with Android architecture. 
+Hello Android! is a part of Android App Development (AAD) series to help students learn building Android apps on Android Studio. Students will get comfortable with basic Java and XML concepts together with Android architecture. 
 
 ## How to get started
 
